@@ -1,0 +1,45 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.parent {
+    box-shadow: 5px 10px 10px yellow;
+    background-image: url("https://cdn.dribbble.com/users/925716/screenshots/3333720/iphone_background.png");
+    margin-left: 30%;
+    margin-top: 10px;
+    border: 8px solid red;
+    width: 50%;
+    height: 500px;
+    color: BLACK;
+}
+
+input {
+    width: 50%;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 2px;
+    color: black;
+}
+
+button {
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+
+.childone {
+    margin-top: 160px;
+    margin-left: 90px;
+    width: 50%;
+    color: black;
+}
+
+.childone_child {
+    font-family: fantasy;
+}
+
+#icon_react {
+    height: 70px;
+}
